@@ -19,5 +19,8 @@
   "homepage": "https://github.com/wdi-sg/cyphers#readme",
   "devDependencies": {
     "jest": "^23.2.0"
+  },
+  "dependencies": {
+    "jsonfile": "^5.0.0"
   }
 }
